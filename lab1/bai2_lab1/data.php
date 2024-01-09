@@ -3,7 +3,7 @@
 // db
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "mysql";
 $dbname = "ql_dondathangtructruyen";
 
 try {
